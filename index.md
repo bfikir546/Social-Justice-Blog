@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Combatting The Homeless Crisis in Oakland
 
-You can use the [editor on GitHub](https://github.com/bfikir546/Social-Justice-Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+How can we tackle the root causes of homelesness in Oakland?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+by Betsy Fikir
 
-### Markdown
+The homeless crisis has increased a lot within the past few years in the Bay Area. Despite efforts to tackle the crisis, the homeless population in the Bay Area is greater, less sheltered, and expanding quicker than it has ever been. Oakland had the largest rise in the Bay Area, accounting for over half of the county's population. Oakland is a historical city that holds significant historic preservations and community engaged cultural representations. It is one of the most varied metropolitan cities in the country, with nearly every ethnic group represented and countless languages and dialects spoken inside city limits. The city is alive with vibrant energy and genuine people who have lived in Oakland for a long time. In spite of all that Oakland has to offer its residents, the city is currently undergoing major changes that are destroying the city's heritage and legacy. Strategic segregation, gentrification, redlining, and social inequality are among the existing and new changes that are causing residents of Oakland to abandon the city in search of more acceptable locations. However, as a result of these changes, some people are becoming homeless, earning Oakland the distinction of having California's highest homeless rate. As a resident of Oakland, I see a lot of homeless encampments nearly everywhere, and it's distressing to witness the unhoused persons’ living conditions. Having lived in Oakland for practically my entire life, I feel inclined to address the situation on behalf of other Oakland residents who are likewise concerned about the homeless crisis. The majority of the homeless population in Oakland are native residents who have struggled with homelessness for a long period and are attempting to get back on their feet but have difficulty doing so. I looked deeper into some of the factors that contribute to homelessness among Oakland's most vulnerable, as well as the steps the city is taking to combat housing instability in Oakland. The city of Oakland in a project Oakland’s Response to Homelesness breaks down some of the driving issues that contribute to homelesness and the steps taken to reduce the crisis. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The local Oakland government devised a set of successful techniques to combat homelessness at every stage of the process. Oakland has taken emergency measures such as community cabins that have been implemented in several Oakland areas in response to the crisis level increase in homelessness. As part of Oakland's proactive stabilization approach, people are being moved from the streets and homeless encampments to innovative initiatives like communal cabins and Safe RV parking areas which are considered to be more successful rapid re-housing programs in comparison to the traditional shelter model. These community cabin programs provide temporary shelters designed for a six months stay to meet the crisis while providing individuals time to make a comeback. Furthermore, the Safe RV Parking program is an innovative compassionate intervention model that provides safe and clean RV parking spots to support those unsheltered Oaklanders who live in cars and RVs. The city of Oakland is also dedicated to addressing COVID’s immediate impacts by providing health and safety responses to the homeless population such as porta-potties, handwashing stations, garbage pick up, outreach teams distributing PPE, and more. These resources are great starts to addressing the homeless crisis and controlling the ongoing challenges and increase in homelesness to some extent. However, encampments are still expanding and the high rate of new homelessness makes it difficult to deal with individual cases. Which is why it is important to take extensive actions that extend far back into the root causes of homelessness rather than just focusing on emergency measures that only address the present state of homeless encampments and housing instabilities. 
 
-```markdown
-Syntax highlighted code block
+The city of Oakland proceeds working towards finding solutions to address the striking numbers of homelesness that continue to devastate the city. Nevertheless, it is initially important to investigate the core causes of homelessness and which groups of people are most affected by the problem in order to furnish specific outcomes. According to the statistics collected by the city for the initiative Oakland's Response to Homelessness, racial injustice is one of the leading causes of housing instability in Oakland. Although African Americans in Oakland make up 28 percent of the city’s population, they account for 68 percent of the city’s homeless population. (City of Oakland, 2021). The reason behind the racial injustice that resulted in the majority of the African American community to be hit with homelesness is economic inequality. It is difficult and concerning for low-income families to afford to live when income and opportunity are unequally distributed, trapping people in poverty with little to no hope of climbing up the social ladder. Moreover, many urban districts are being gentrified in the name of "development," resulting in redlining, which has pushed long-term inhabitants to leave their homes, while some fall into homelessness. In an interview with The Oaklandside, a long-time resident of Oakland expressed the impact the urgent issues of gentrification are causing on the living status of many Oaklanders stating, those who aren't wealthy are finding less and fewer reasonable shopping options, as well as nearly no affordable housing options all while the neighborhood is varied, but gentrification is removing some of that diversity. (Orenstein, 2020). Gentrification, along with other forms of social inequality, has taken a toll on Oaklanders for a long period, especially given the current condition of the pandemic, which has been a difficult season for many families. Therefore, more than temporary housing options and RV parking sites will be required to fully tackle the homeless problem.
 
-# Header 1
-## Header 2
-### Header 3
+In conclusion, considering economic inequality and other social discrimination are the causes of racial injustice that has resulted in the majority of the African American community becoming homeless, it is significant that we confront and begin to deal with these strategic inequities that are root causes of homelesness affecting minority groups. The government needs to take initiative in addressing investors that come into urban communities to gentrify the space and make it difficult for local residents to afford housing. Moreover, by implementing programs that specifically provide financial literacy, economic equality through providing more job opportunities, and individual based assistance programs that help with one on one contingent needs, I believe that the homeless crisis could be solved in the long run. In addition to the emergency measures used to provide stabilization and temporary housing, such as community cabins, RV parking sites, and homeless shelters, it is also critical to advance educational resources to provide financial literacy to families and to extend solutions to reduce economic inequality in order to better battle the damage homelessness is resulting on the city of Oakland. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Bibliography 
 
-**Bold** and _Italic_ and `Code` text
+Fuller, Thomas, and Josh Haner. “Addressing Homelessness.” AWS, City of Oakland, 2021, https://cao-94612.s3.amazonaws.com/documents/City-Oak_Homeless-Strategies_Deck_final.pdf. Accessed 17 June 2022.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bfikir546/Social-Justice-Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Orenstein, Natalie. “‘Every house has changed hands’: North Oakland residents talk about gentrification, development, and safety.” 2020. The Oaklandside, https://oaklandside.org/2020/09/01/north-oakland-residents-talk-gentrification-safety/. Accessed 17 June 2022.
